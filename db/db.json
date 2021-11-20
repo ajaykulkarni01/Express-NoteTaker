@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "This is the first note",
+        "text": "To create your first note, click on the \"+\" icon on your right. \nTo save your note click on the save icon. And to delete, click on the red bin icon.",
+        "id": "ec0dace9-ea95-40a2-a0ca-c53kwo1adc0c"
+    },
+    {
+        "title": "Test note 2",
+        "text": "Test description 2",
+        "id": "d970b115-d096-4e9e-8fe0-ff404ea9e57e"
+    },
+    {
+        "title": "Test note 3",
+        "text": "Test description 3",
+        "id": "67d565f0-894b-4650-b50f-9c3a16810912"
     }
 ]

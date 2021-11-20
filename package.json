@@ -1,14 +1,15 @@
 {
-  "name": "note-taker",
+  "name": "express-notetaker",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application for writing and saving notes",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ajay Kulkarni",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "uuid": "^8.3.2"
   }
 }
